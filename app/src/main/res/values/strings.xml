@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TY_iBook</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reading"> <b>Reading is a conversation. All book\'s talk but a good book listens as well.</b></string>
+    <string name="swinging"> <b>You\'re all set and ready to starting your favorite books.</b></string>
+    <string name="get_started"> <b>Get Started</b></string>
+    <string name="proceed"> <b>Proceed</b></string>
+    <string name="setup_account">New to iBook? <b> Set up an account </b> </string>
+    <string name="sign_in_account"> Already have an account? <b> Sign in </b> </string>
+    <string name="sign_up_note"> <b>There\'s a lot in store for you</b></string>
+    <string name="first_name"> <b>First Name</b></string>
+    <string name="last_name"> <b>Last Name</b></string>
+    <string name="username"> <b>Username</b></string>
+    <string name="email"> <b>Email</b></string>
+    <string name="password"> <b>Password</b></string>
+    <string name="sign_up"> <b>Sign Up</b></string>
+    <string name="sign_in_text"> <b> We\'re glad to have you </b> </string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "TY_iBook"
+include ':app'
